@@ -12,9 +12,12 @@
         "mousekey": true,
         "nkro": true
     },
+    "split": {
+        "enabled": true
+    },
     "matrix_pins": {
-        "cols": ["C2", "C2", "C2", "C2", "C2", "C2", "C2", "C2", "C2", "C2", "C2", "C2"],
-        "rows": ["D1", "D1", "D1", "D1"]
+        "cols": ["B2", "B6", "D1", "D0", "D4"],
+        "rows": ["D7", "E6", "B4", "B5"]
     },
     "processor": "atmega32u4",
     "url": "",
